@@ -1,11 +1,14 @@
 # ERC721Sub
 
 todo
+
 -[] mapping(uint => uint) public tokenInfo  
+
 -[] getTokenSub() 查询接口过期时间
 
 
 nft过期后是销毁？如何处理？
+
 -[] 通过tokenIsExp来实现token功能，而nft是否销毁不定义在协议里
 
 
